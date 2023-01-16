@@ -1,20 +1,22 @@
 #1 Background
+
 #2 BrickWall
+
 #3 ControlPanel
+
 #4 GameScene
+
 #5 Primitives
+
 #6 ShootingGame
+
 #7 Trajectory
+
 #8 Trebuchets
 
 Design Details:
 
-I have a class called ShootingGame which has a static main method, to serve as
-the entry point of the whole game. The whoel screen consist of three part, the
-left and right are two control panels which control the angel and velocity of
-two trebuchets. The center is controled by a class called GameScreen, which 
-grab all objects together, including BrickWall, Trebuchets, Background and
-Trajectory.
+I have a class called ShootingGame which has a static main method, to serve as the entry point of the whole game. The whoel screen consist of three part, the left and right are two control panels which control the angel and velocity of two trebuchets. The center is controled by a class called GameScreen, which grab all objects together, including BrickWall, Trebuchets, Background and Trajectory.
 
 About this project:
 
